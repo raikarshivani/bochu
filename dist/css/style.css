@@ -1,0 +1,62 @@
+html,body
+{
+    height: 100%;
+    width:100%;
+}
+.navbar-default .navbar-fnt {
+    background-color: blue;
+}
+#home
+{
+    background:url(../../1.jpg) no-repeat fixed;
+    height:100%;
+    width:100%;
+    -webkit-background-size:cover;
+     -moz-background-size:cover;
+    -o-background-size:cover;
+     background-size:cover;
+    position:relative;
+}
+
+#navbar 
+{
+    text-decoration-color: blue;
+}
+
+
+.text-center 
+{
+    text-align: center;
+    vertical-align :middle;
+}
+
+#academics h2
+{
+   color:blue; 
+}
+#academics h4
+{
+   color:green; 
+}
+#about h2
+{
+   color:blue; 
+}
+#about h4
+{
+   color:green; 
+}
+
+#internship h2
+{
+   color:blue; 
+}
+#internship h4
+{
+   color:green; 
+}
+.about
+{
+    height: 360px;
+    width: 360px;
+}
